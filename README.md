@@ -4,6 +4,7 @@ Short tutorial series describing how to accomplish basic tasks using the Natural
 Installation Instructions:
 
 Install Anaconda from www.continuum.io/downloads
+
     -Install the Python 2.7 version of Anaconda
     -Make sure to make Anaconda your default python distribution
 
